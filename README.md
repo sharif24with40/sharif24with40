@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Sharif?style=social)](https://github.com/Sharif?tab=repositories)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?style=flat-square&logo=appveyor&logoColor=white)](#)  
 [![YouTube](https://img.shields.io/badge/YouTube-SyntaxCraft-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCSyntaxCraft)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode)](https://leetcode.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/sharif_pro)  
 
 ---
 
@@ -52,7 +52,7 @@
 
 ## 🏆 **My Coding Journey**
 🔢 Check out my LeetCode stats!  
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Sharif&theme=dark)](https://leetcode.com/Sharif)  
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Sharif&theme=dark)](https://leetcode.com/sharif_pro)  
 
 ---
 
