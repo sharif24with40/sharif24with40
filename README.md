@@ -5,6 +5,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23E4405F.svg?style=flat-square&logo=appveyor&logoColor=white)](#)  
 [![YouTube](https://img.shields.io/badge/YouTube-SyntaxCraft-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCSyntaxCraft)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/sharif_pro)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sharif&theme=dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sharif&theme=react-dark)
 
 ---
 
@@ -51,8 +53,16 @@
 ---
 
 ## 🏆 **My Coding Journey**
+### How It Started 🚀  
+My journey began in high school when I built my first Python program—a simple calculator! Since then, I’ve fallen in love with problem-solving and crafting meaningful software solutions.  
+
 🔢 Check out my LeetCode stats!  
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Sharif&theme=dark)](https://leetcode.com/sharif_pro)  
+### Current Focus 🛠  
+I'm currently diving into:  
+- **Artificial Intelligence & Machine Learning** with Python libraries like TensorFlow and scikit-learn.  
+- **Full-Stack Development** using React for frontend and Flask/Django for backend.  
+- **Cybersecurity** fundamentals to build secure applications and systems.  
 
 ---
 
